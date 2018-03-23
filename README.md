@@ -75,6 +75,8 @@ Submit the following:
 7. Classify the following wines:
 
 ```
+                    Wine 3  Wine 4
+		    ======  ======
 fixed acidity          7.1     6.3
 volatile acidity       0.4     0.2
 citric acid            0.1     0.3

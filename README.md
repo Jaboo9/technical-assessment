@@ -28,6 +28,8 @@ Submit the following:
 7. Use one of the models to predict quality for the following wines:
 
 ```
+                    Wine 1  Wine 2
+		    ======  ======
 colour                 red   white
 fixed acidity          8.3     6.9
 volatile acidity       0.5     0.3

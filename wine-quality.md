@@ -11,7 +11,7 @@ Note: All aspects of your analysis must be *repeatable* (must be done *in code*!
 
 Submit the following:
 
-- All source code.
+- A script so that we can *reproduce* your work.
 
 ## Task 2: Regression
 
@@ -46,7 +46,7 @@ alcohol               10.4    10.5
 
 Submit the following:
 
-- All source code.
+- A script so that we can *reproduce* your work.
 - A document detailing:
 
     - exploratory analysis
@@ -92,7 +92,7 @@ alcohol                9.5     9.5
 
 Submit the following:
 
-- All source code.
+- A script so that we can *reproduce* your work.
 - A document detailing:
 
     - exploratory analysis
